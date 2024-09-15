@@ -103,4 +103,4 @@ public:
 	virtual ~AudioStreamFLAC();
 };
 
-#endif
+#endif // AUDIO_STREAM_FLAC_H
